@@ -1,0 +1,6 @@
+[submodule "Monkeytype-clone-backend"]
+	path = Monkeytype-clone-backend
+	url = git@github.com:HediKhemiri3001/Monkeytype-clone-backend.git
+[submodule "Monkeytype-clone-frontend"]
+	path = Monkeytype-clone-frontend
+	url = git@github.com:HediKhemiri3001/Monkeytype-clone-frontend.git
